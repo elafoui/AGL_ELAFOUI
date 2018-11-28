@@ -6,6 +6,8 @@ public class hello {
         return "nourhira";
     }
 
+    public String returnName(){return "el mokhtar";}
+
 
 
 
